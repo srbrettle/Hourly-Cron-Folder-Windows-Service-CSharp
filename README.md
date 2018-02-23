@@ -4,7 +4,7 @@ _______________
 ## Install Service
 
 1. Run command prompt (CMD) with administrator rights.
-2. Run the following command (modify values in [ ]): c:\windows\microsoft.net\framework\v[Your installed .NET Framework version]\installutil.exe [The full path to the windows service exe]
+2. Run the following command (modify values in [ ]): c:\windows\microsoft.net\framework\v[Your installed .NET Framework version]\installutil.exe "[The full path to the windows service exe]"
 3. Restart terminal.
 _______________
 ## Usage
