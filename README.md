@@ -10,3 +10,9 @@ _______________
 ## Usage
 Executables inside "C:/Cron" folder will launch on service startup and then hourly thereafter.
 _______________
+## Uninstall Service
+
+1. Run command prompt (CMD) with administrator rights.
+2. Run the following command (modify values in [ ]): c:\windows\microsoft.net\framework\v[Your installed .NET Framework version]\installutil.exe -u "[The full path to the windows service exe]"
+3. Restart terminal.
+_______________
